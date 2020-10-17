@@ -96,6 +96,6 @@ print(dev1.email)
 print(dev2.prog_lang)
 
 dev1.apply_raise()
-print(help(Developer))# Gives every information about subclass developer
+print(help(Developer))# Gives every necesssary information about subclass developer
 print(dev1.pay)
 print(dev1.pay)
